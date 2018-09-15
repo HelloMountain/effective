@@ -2,73 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="711be1cb-f543-468f-a331-469d77ed7cc1" name="Default" comment="interview">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/eclipseCodeFormatter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/effective.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/Packaging.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/RunTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/builder/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/builder/NutritionFacts$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/builder/NutritionFacts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/clone/Clone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/clone/TestMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/com/company/CaseInsensitiveString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/equals/CaseInsensitiveString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/equals/CaseInsensitiveString2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/factory/simplefac/BaoMa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/factory/simplefac/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/factory/simplefac/Odi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/multithreading/MyCallable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/multithreading/MyRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/multithreading/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/service/Provider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/service/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/service/Services.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/singleton/ReflectTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/singleton/Singleton1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/singleton/Singleton1$T.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/singleton/Singleton1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/singleton/Singleton2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/singleton/Singleton3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/singleton/SingletonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/effective/sort/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Packaging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RunTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/NutritionFacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clone/Clone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clone/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CaseInsensitiveString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equals/CaseInsensitiveString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equals/CaseInsensitiveString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/simplefac/BaoMa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/simplefac/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/simplefac/Odi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multithreading/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/Services.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/ReflectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/Singleton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/Singleton3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/SelectSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,89 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multithreading/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BubbleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/BubbleSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="49" lean-forward="true" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SelectSort.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sort/SelectSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="214">
+              <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <file leaf-file-name="InsertSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sort/InsertSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunTime.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RunTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyRunnable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multithreading/MyRunnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyCallable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/multithreading/MyCallable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Callable.class" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/sun/org/mozilla/javascript/internal/Callable.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Runnable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/Runnable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            <state relative-caret-position="114">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -225,16 +92,20 @@
         <option value="$PROJECT_DIR$/src/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/RunTime.java" />
+        <option value="$PROJECT_DIR$/src/sort/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/sort/InsertSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="186" />
-    <option name="y" value="48" />
+    <option name="x" value="302" />
+    <option name="y" value="195" />
     <option name="width" value="1098" />
     <option name="height" value="1039" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -253,6 +124,12 @@
               <item name="effective" type="b2602c69:ProjectViewProjectNode" />
               <item name="effective" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effective" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effective" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,9 +157,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.InsertSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.BubbleSort" />
+      <module name="effective" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.InsertSort" />
       <module name="effective" />
       <extension name="coverage">
         <pattern>
@@ -311,34 +198,30 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.MyThread" />
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.SelectSort" />
       <module name="effective" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="multithreading.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Packaging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Packaging" />
-      <module name="effective" />
-    </configuration>
     <list>
-      <item itemvalue="Application.Packaging" />
-      <item itemvalue="Application.MyThread" />
       <item itemvalue="Application.MyRunnable" />
       <item itemvalue="Application.MyCallable" />
       <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.SelectSort" />
+      <item itemvalue="Application.InsertSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.SelectSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.MyCallable" />
         <item itemvalue="Application.MyRunnable" />
-        <item itemvalue="Application.MyThread" />
-        <item itemvalue="Application.Packaging" />
       </list>
     </recent_temporary>
   </component>
@@ -353,6 +236,14 @@
       <option name="presentableId" value="Default" />
       <updated>1533826269059</updated>
     </task>
+    <task id="LOCAL-00001" summary="interview">
+      <created>1536996652235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536996652235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -366,34 +257,35 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49798927" weight="0.17094018" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4966488" weight="0.26533523" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49597856" weight="0.26533523" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50268096" side_tool="true" visible="true" weight="0.32952926" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5127346" side_tool="true" visible="true" weight="0.27817404" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49329758" weight="0.15669516" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49731904" visible="true" weight="0.32952926" />
-      <window_info anchor="bottom" id="CheckStyle" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4966488" weight="0.1783167" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4872654" visible="true" weight="0.27817404" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4953083" weight="0.32952926" />
+      <window_info anchor="bottom" id="CheckStyle" order="8" sideWeight="0.49731904" weight="0.32952926" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49463806" weight="0.1783167" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24664879" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4953083" weight="0.49072754" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -411,32 +303,17 @@
           <line>17</line>
           <properties />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/SelectSort.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RunTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/singleton/Singleton1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/singleton/Singleton2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="113" selection-start-line="10" selection-start-column="113" selection-end-line="10" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/singleton/Singleton3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -758,20 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="49" lean-forward="true" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -786,6 +649,44 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/effective/factory/simplefac/BaoMa.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Tencent Files/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1033">
+          <caret line="35" column="71" lean-forward="true" selection-start-line="35" selection-start-column="71" selection-end-line="35" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
