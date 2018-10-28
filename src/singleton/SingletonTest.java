@@ -10,9 +10,9 @@ public class SingletonTest {
     }
 
     public SingletonTest getInstance(){
-        if(singletonTest == null) {
+        if (singletonTest == null) {
             synchronized (SingletonTest.class){
-                if(singletonTest == null){
+                if (singletonTest == null){
                     return new SingletonTest();
                 }
             }
